@@ -12,5 +12,5 @@ This app lets users select their region from Indian Regional Hierarchy data and 
 After cloning the repo:
 
 - yarn install to install the required dependencies.
-- Install pod dependencies for iOS: cd ios && pod install && cd .. or run yarn postinstall, if not run automatically
-- Run yan ios/yarn android and you would be good to go!
+- Install pod dependencies for iOS: `cd ios && pod install && cd ..` or run `yarn postinstall`, if it doesn't runs automatically
+- Run `yarn ios`/`yarn android` and you would be good to go!
